@@ -1,0 +1,12 @@
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\Anime.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\bin\Debug\netstandard2.0\Anime.deps.json
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\bin\Debug\netstandard2.0\Anime.dll
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\bin\Debug\netstandard2.0\Anime.pdb
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\Anime.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\Anime.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\Anime.AssemblyInfo.cs
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\Anime.dll
+C:\Users\Home\Desktop\C#\Anime-master\Anime\Anime\Anime\obj\Debug\netstandard2.0\Anime.pdb

@@ -6,6 +6,9 @@
 
     <StackLayout>
         <!-- Place new controls here -->
+        <Image
+            Source="@drawable/anime">
+        </Image>
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
