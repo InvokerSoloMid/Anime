@@ -11,7 +11,9 @@ namespace Anime
     {
         public MainPage()
         {
-            InitializeComponent();
+            Image image = new Image { Source = "wtf.jpg" };
+            this.Content = image;
+            //InitializeComponent();
         }
     }
 }

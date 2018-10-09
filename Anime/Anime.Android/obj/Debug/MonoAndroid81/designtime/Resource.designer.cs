@@ -2339,9 +2339,6 @@ namespace Anime.Droid
 			// aapt resource value: 0x7F090053
 			public const int abc_vector_test = 2131296339;
 			
-			// aapt resource value: 0x7F010002
-			public const int anime = 2130771970;
-			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
 			
@@ -3001,6 +2998,9 @@ namespace Anime.Droid
 			
 			// aapt resource value: 0x7F09006A
 			public const int tooltip_frame_light = 2131296362;
+			
+			// aapt resource value: 0x7F010002
+			public const int wtf = 2130771970;
 			
 			static Drawable()
 			{
